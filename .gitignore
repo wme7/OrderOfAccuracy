@@ -1,3 +1,9 @@
+# binaries
+*.mat
+
+# save-files
+*.asv
+
 # Prerequisites
 *.d
 
